@@ -1,0 +1,11 @@
+body {
+    background-image:url(300.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+[href]:hover{
+    color:rgb(255, 0, 0);
+}
+
